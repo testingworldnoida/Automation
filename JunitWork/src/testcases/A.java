@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class A {
 
 	@BeforeMethod
-	public void mycase()
+	publicdds void mycase()
 	{
 		System.out.println("CODE BEFORE METHOD");
 	}
